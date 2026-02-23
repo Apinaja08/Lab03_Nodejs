@@ -23,7 +23,9 @@
   "scripts": {
     "start": "node app.js",
     "read-file": "node read-file.js",
-    "test": "echo \"No tests specified\" && exit 0"
+    "test": "echo \"No tests specified\" && exit 0",
+    "http-server": "node http-server.js"
+
   },
   "dependencies": {
     "express": "^5.2.1"
