@@ -27,7 +27,8 @@
     "http-server": "node http-server.js",
     "http-request": "node http-request.js",
     "module-demo": "node use-module.js",
-    "promises": "node promises.js"
+    "promises": "node promises.js",
+    "async-await": "node async-await.js"
 
   },
   "dependencies": {
