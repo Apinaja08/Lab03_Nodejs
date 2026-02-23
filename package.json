@@ -1,0 +1,31 @@
+{
+  "name": "lab03_nodejs",
+  "version": "1.0.0",
+  "description": "Lab 03 Node.js practical",
+  "keywords": [
+    "nodejs",
+    "lab",
+    "backend",
+    "se3040"
+  ],
+  "homepage": "https://github.com/Apinaja08/Lab03_Nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/Apinaja08/Lab03_Nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apinaja08/Lab03_Nodejs.git"
+  },
+  "license": "ISC",
+  "author": "APINAJA",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "read-file": "node read-file.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
