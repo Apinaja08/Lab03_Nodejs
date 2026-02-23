@@ -25,7 +25,8 @@
     "read-file": "node read-file.js",
     "test": "echo \"No tests specified\" && exit 0",
     "http-server": "node http-server.js",
-    "http-request": "node http-request.js"
+    "http-request": "node http-request.js",
+    "module-demo": "node use-module.js"
 
   },
   "dependencies": {
